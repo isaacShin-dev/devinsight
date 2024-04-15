@@ -1,1 +1,0 @@
-import{bt as e,R as t,Q as n,bu as r}from"./entry.DQxhvQZe.js";const o=t(),s=n(),g=e((a,c)=>{if(o.isLogged)return console.log("isLogedin",!o.isLogged),console.log("redirecting main page"),r(s.lang==="kr"?"/kr/":"/en/")});export{g as default};
