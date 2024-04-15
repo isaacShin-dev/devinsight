@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.DlAUqK2U.js";import{c as t,o as c}from"./entry.DQxhvQZe.js";const o={};function r(s,n){return c(),t("h1",null,"Lists")}const f=e(o,[["render",r]]);export{f as default};
